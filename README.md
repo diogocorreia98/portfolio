@@ -1,6 +1,6 @@
-# Diogo Correia Portfolio
+# My Portfolio
 
-Personal portfolio website for **Diogo Correia**, a data engineer focused on **Python, SQL, AWS, telemetry pipelines, data quality, and analytics-ready platform design**.
+Personal portfolio website for me, **Diogo Correia**, a data engineer focused on **Python, SQL, AWS, telemetry pipelines, data quality, and analytics-ready platform design**.
 
 This repository contains the source for a static portfolio site that highlights:
 
