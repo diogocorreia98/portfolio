@@ -11252,6 +11252,12 @@ a.btn {
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
+.certification-card,
+.certification-card:hover {
+  color: inherit;
+  text-decoration: none;
+}
+
 .certification-card::before {
   content: "";
   position: absolute;
@@ -11262,6 +11268,11 @@ a.btn {
 .certification-card:hover {
   transform: translateY(-4px);
   box-shadow: 0 30px 70px rgba(19, 42, 68, 0.14);
+}
+
+.certification-card:focus-visible {
+  outline: 3px solid rgba(31, 138, 112, 0.45);
+  outline-offset: 4px;
 }
 
 .certification-card-foundational::before {
